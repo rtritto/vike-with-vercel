@@ -1,4 +1,6 @@
 {
+  "outputDirectory": "dist/client",
+  "devCommand": "yarn dev",
   "rewrites": [
     {
       "source": "/((?!assets/).*)",
