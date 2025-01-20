@@ -1,4 +1,4 @@
-export { render as onRenderClient }
+export { render }
 
 import { createApp } from './app'
 
